@@ -1,4 +1,4 @@
-# CSSSR Project Template
+# Landing Project Template
 **Шаблон проекта для быстрого старта.**
 
 ## Старт проекта
