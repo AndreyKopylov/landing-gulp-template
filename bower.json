@@ -1,5 +1,5 @@
 {
-  "name": "csssr-project-template",
+  "name": "landing-gulp-template",
   "version": "0.8.0",
   "devDependencies": {
     "jquery": "~2.1.3",

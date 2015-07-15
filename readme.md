@@ -12,7 +12,9 @@ npm i -g gulp bower
 * Склонируйте себе репозиторий и перейдите в папку проекта:
 
 ```
-git clone git@github.com:CSSSR/csssr-project-template.git new-project && cd new-project
+git clone git@github.com:AndreyKopylov/landing-gulp-template.git new-project && cd new-project
+
+
 ```
 
 * Установите зависимости, запустив `hook.sh` (находится в папке проекта) или вручную:

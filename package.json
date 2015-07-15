@@ -1,8 +1,8 @@
 {
-  "name": "csssr-project-template",
+  "name": "landing-gulp-template",
   "version": "0.8.5",
-  "title": "CSSSR Project Template",
-  "description": "A template for a quick start.",
+  "title": "iQ Option Project Template",
+  "description": "Quick start template",
   "keywords": [
     "csssr",
     "project",
@@ -14,18 +14,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/CSSSR/csssr-project-template.git"
+    "url": "git@github.com:AndreyKopylov/landing-gulp-template.git"
   },
   "author": {
-    "name": "felixexter",
-    "url": "https://github.com/felixexter"
+    "name": "Andrey Kopylov",
+    "url": "https://github.com/AndreyKopylov"
   },
-  "copyright": "©CSSSR",
+  "copyright": "iqoption",
   "bugs": {
-    "url": "https://github.com/CSSSR/csssr-project-template/issues/",
-    "email": "dev@csssr.com"
+    "url": "https://github.com/AndreyKopylov/landing-gulp-template/issues",
+    "email": "andrew.kopylov@iqoption.com"
   },
-  "homepage": "https://github.com/CSSSR/csssr-project-template/",
+  "homepage": "https://github.com/AndreyKopylov/landing-gulp-template",
   "engines": {
     "node": ">= 0.10.0"
   },
